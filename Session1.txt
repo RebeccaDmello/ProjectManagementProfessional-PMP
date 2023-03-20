@@ -114,7 +114,7 @@ TECOP - techni, environmental, commercial, operational, political
 VUCA - 
 
 Classify the following options with EEFs amd OPAs category for exam
-EEFs - Any factor internal/external which impact the project
+EEFs - Any factor internal/external which impact the project. Can't control the changes of the proj
 OPAs - documentation any historical infor, checklists etc
 
 Types of Business Value
