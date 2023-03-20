@@ -15,4 +15,18 @@ Content Outline for exam (Not on pink book/agile guide)
 - It's in precipio
 - Domains people - 42%
 
+Exam format (Scenario based- 60 section * 3) - 180 questions, 230 minutes, multiple choice/response, matching, hotspot and fill-in-the-blank
+
+Process - bootcamp 35 hours, Percipio PMI 2021 update 35 courses, TestPrep - 100 hrs - skillsoft/precepio resources
+
+Content:
+Lesson 1 - Business environment
+Lesson 2 - Start the project
+Lesson 3 - Plan the Project
+Lesson 4 - Lead the Team
+Lesson 5 - Support the Project Team
+Lesson 6 - Close the project/phase
+
+
+
 
