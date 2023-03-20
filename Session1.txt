@@ -137,6 +137,7 @@ Financial Metrics
 - Return on investment (ROI)
 
 ECO Coverage - exam content outline coverage, don't refer to pink book'
+~ Compliance requirements
 
 Org culture and change management
 - Projects are going to create change and deliver change to the client, Add value to the org
