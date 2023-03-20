@@ -50,7 +50,7 @@ Project Management Office (PMO)
 - Supportive ~ best practices, methodologies, standards/templates ~ coach,mentor,train, guide PM
 - Controlling ~ Monitor compliance with proj management standards policies, procedures and templates via project audits
 - Directive ~ manage shared resources, Coordinate communication across projects
-- Agile Centers of Excellence (ACoES) ~ coach teams, build agile mindset/skills/capabilities throughout the org, mentor sponsors and product owners
+- Agile Centers of Excellence (ACoES)/ Value Delivery Office (VDO) ~ coach teams, build agile mindset/skills/capabilities throughout the org, mentor sponsors and product owners
 
 
 
