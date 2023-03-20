@@ -147,7 +147,30 @@ Change impacts on projects
 - Work culture (startup/big company), rigid structure, power connections
 - Internal/External outcome
 - Know Org Cultures and Styles
-- resources available like market conditions
+- Resources available like market conditions
+
+Organizational Transformation for Project Practitioners
+- Focuses on Vision and Stretegic objectives
+- Customer insights and global megatrends
+- Flat, adaptable cross-functional transformation operating system
+- Internal volunteer champions
+- Inside-out employee transformation
+
+Project governance - framework and processes that guide project management activities to create a unique product, service or result to meet orgnizational, strategic
+and operational goals
+
+Key benefits:
+- Offers a single point of accountability
+- Encompasses the project life cycle
+- Governance is typically already in place - established by a PMO or aligned with organizational policies
+- Depends on strategic importance of project, constraints or oversight requirements
+
+Governance Checkpoint
+- Predictive => Split work into phases, review results at a phase gate
+- Adaptive => Split work into releases, review results at end of iterations, Gather feedback and take action to improve value in next iteration, continue until customer's acceptance criteria.
+
+
+
 
 
 
