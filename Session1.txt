@@ -7,9 +7,9 @@ Learner Kit
 - Visit pmu.lochoice.com
 
 Triangle
-- Business acumen
-- ways of working
--
+- Business Acumen => Benefits management and realization, business models and structures, competitive analysis, customer relationships and satisfaction, Industry domain knowledge, legal and regulatory compliance, market awareness, function-specific knowledge, strategic planning, analysis
+- Ways of Working => Agile and hyper agile, hybrid, design thinking, transformation, data gathering/modeling, earned value mgmnt, government, performance mgmt, requirement mgmt, governance, Performance/requirement mgmt, risk mgmt, schedule/scope mgmt
+- Power Skills => Leadership, active listening, communication, adaptability, brainstorming, coaching/mentoring, conflict mgmt, emotional intelligence, inflencing, interpersonal skills, negotiation, problem solving
 
 Content Outline for exam (Not on pink book/agile guide)
 - It's in precipio
