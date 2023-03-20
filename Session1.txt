@@ -114,11 +114,40 @@ TECOP - techni, environmental, commercial, operational, political
 VUCA - 
 
 Classify the following options with EEFs amd OPAs category for exam
-EEFs - Any factor internal/external with impact the project
+EEFs - Any factor internal/external which impact the project
 OPAs - documentation any historical infor, checklists etc
 
+Types of Business Value
+- Financial gain
+- New customers
+- Social Benefit
+- First to market
+- Improvement
+- Regularization
 
+Assessment needs - obtain requirements of the project - business analyst
 
+Business Documents/Case - Justifies project and establishes boundaries. Cost-benefit analysis, business need, quality specifications, schedule or cost constraints
+
+Financial Metrics 
+- Present Value (PV)
+- Future value (FV)
+- Net present value (NPV)
+- Interest rate of return (IRR)
+- Return on investment (ROI)
+
+ECO Coverage - exam content outline coverage, don't refer to pink book'
+
+Org culture and change management
+- Projects are going to create change and deliver change to the client, Add value to the org
+- Change within the org
+- Continuous improvement
+
+Change impacts on projects
+- Work culture (startup/big company), rigid structure, power connections
+- Internal/External outcome
+- Know Org Cultures and Styles
+- resources available like market conditions
 
 
 
