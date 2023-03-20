@@ -180,6 +180,18 @@ Project Compliance
 - Project team is also responsible for project activity-related compliance including quality of processes and deliverables/products and also
 procurement and work by vendors
 
+Compliance Categories Classification
+- Environmental risks
+- workplace health and safety
+- Ethical/non-corrupt pratices
+- social responsibility
+- quality
+- process risks
+
+Categories vary based on:
+- Industry and solution scope
+- Unique legal and regulatory exposure
+
 
 
 
