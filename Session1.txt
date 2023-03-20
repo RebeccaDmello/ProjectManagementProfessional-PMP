@@ -19,6 +19,8 @@ Exam format (Scenario based- 60 section * 3) - 180 questions, 230 minutes, multi
 
 Process - bootcamp 35 hours, Percipio PMI 2021 update 35 courses, TestPrep - 100 hrs - skillsoft/precepio resources
 
+values of PM = Project , prople and business environment
+
 Content:
 Lesson 1 - Business environment
 Lesson 2 - Start the project
@@ -51,6 +53,73 @@ Project Management Office (PMO)
 - Controlling ~ Monitor compliance with proj management standards policies, procedures and templates via project audits
 - Directive ~ manage shared resources, Coordinate communication across projects
 - Agile Centers of Excellence (ACoES)/ Value Delivery Office (VDO) ~ coach teams, build agile mindset/skills/capabilities throughout the org, mentor sponsors and product owners
+
+OPM - organizational project management - strategy execution framework that coordinates project, program, portfolio and operations management and 
+which enables org to deliver on strategy
+
+Projects, Programs and Portfolios management => Resources
+
+Type of Organizational Structures (V. Imp)
+- Functional = functional manager, seldom identified, part-time on project, Nonexistent functional manager
+- Matrix = Conflicted loyalty, both functional manager and project manager, coordinator to full project manager, part-time on project, medium-shared with funct manager/sponsor
+- Project-oriented = Project manager, full-time and responsible on project, high
+
+12 principles of PM
+- Be a diligent, respectful and caring steward
+- Recognize, evalute and respond to system interactions
+- Navigate complexity
+- Create a collaborative project team environment
+- Demon leadership behaviors
+
+From principles to performance Domains
+- Stakeholders
+- Team
+- Uncertainty
+- Measurement
+- Delivery 
+- Project work 
+- Planning 
+- Development approach and life cycle 
+
+Agile ~ Doing Agile Vs. Being Agile ~ It's an approach, best practise to carry out a work and not a methodology
+- 4 values from Agile Manifesto
+- 12 principles
+- Prople are more important than processes and tools
+- Individuals and interaction, workinng software, customer collaboration, responding to change
+- over ~ Process and tools, over ~ comprehnsive doc, over ~ contract negotiation, over ~ following a plan
+
+Principles behind agile manifesto
+- Continuous Customer satisfaction
+- Welcome changes by being agile, Scope
+- Deliver work frequently ~ Sprints(2 weeks)
+- Collaboration
+- Increase Motivation among people
+- Most efficient and effective method of conveying info to and within a dev team is face-to-face conversation
+- Software to measure progress (Agile we are either done or not done)
+- Promote sustainable development (Working hrs of people)
+- Continuous attention to technical excellence and good design enhances agility
+- Simplicity - the amount of work not done summary is essential
+
+Strategic Management Elements and frameworks
+- Vision
+- Mission
+- Organizational strategy and objectives
+- Portfolio management, strategic planning and management of projects, programs and operations
+- Management of ongoing Operatopms - producing value
+- Management of Authorized Programs and projects - Increasing Value Production Capability
+- Organizational Resources
+
+PESTLE - political, economic, socio-cultural, technical, legal and environmental
+TECOP - techni, environmental, commercial, operational, political
+VUCA - 
+
+Classify the following options with EEFs amd OPAs category
+EEFs -
+OPAs -
+
+
+
+
 
 
 
