@@ -46,6 +46,13 @@ Project management life cycles and development approaches
 - Plan based approach = activities completed in a distinct or linera fashion, new phase begins only when the previous phase is completed, Project sponsor and project manager
 - Change based approach = Agile, incremental or iterative development - product owner, project team  , team lead, scrum master, agile coach, facilitator
 
+Project Management Office (PMO)
+- Supportive ~ best practices, methodologies, standards/templates ~ coach,mentor,train, guide PM
+- Controlling ~ Monitor compliance with proj management standards policies, procedures and templates via project audits
+- Directive ~ manage shared resources, Coordinate communication across projects
+- Agile Centers of Excellence (ACoES) ~ coach teams, build agile mindset/skills/capabilities throughout the org, mentor sponsors and product owners
+
+
 
 
 
