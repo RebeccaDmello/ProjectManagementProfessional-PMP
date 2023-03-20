@@ -169,6 +169,16 @@ Governance Checkpoint
 - Predictive => Split work into phases, review results at a phase gate
 - Adaptive => Split work into releases, review results at end of iterations, Gather feedback and take action to improve value in next iteration, continue until customer's acceptance criteria.
 
+Project Phases produce one or more deliverables; outputs from one phase are generally inputs to the next phase. They can have sequential or any
+
+Project Compliance
+- Government regulations
+- Corporate policies
+- Product and project quality
+- Project risk
+- PMO monitors compliance at org level
+- Project team is also responsible for project activity-related compliance including quality of processes and deliverables/products and also
+procurement and work by vendors
 
 
 
