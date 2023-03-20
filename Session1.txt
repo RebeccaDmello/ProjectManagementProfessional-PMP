@@ -27,6 +27,29 @@ Lesson 4 - Lead the Team
 Lesson 5 - Support the Project Team
 Lesson 6 - Close the project/phase
 
+Lesson 1 - BE
+A project is unique product, service or result, it is time-limited and drives changes, enables value creation for a business or org
+
+Project success depends on:
+- Org project maturity
+- Proj manager effectiveness
+- Funding and resource availability
+- Team member skill levels
+- Collaboration and communication within the team and with key stakeholders
+- Understanding of the core problem and related needs
+- Project that must add value to the organization
+
+Projects do not simply produce outputs, but more importantly, enable those outputs to drive outcomes 
+that ultimately deliver value to the org and its stakeholders
+
+Project management life cycles and development approaches
+- Plan based approach = activities completed in a distinct or linera fashion, new phase begins only when the previous phase is completed, Project sponsor and project manager
+- Change based approach = Agile, incremental or iterative development - product owner, project team  , team lead, scrum master, agile coach, facilitator
+
+
+
+
+
 
 
 
