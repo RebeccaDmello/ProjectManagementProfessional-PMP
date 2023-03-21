@@ -116,6 +116,9 @@ Project Negotiation Goals ~
 - Letters of agreement or intent
 - verbal agreements
 
+Business cases and documents
+- A documented economic feasibility study, established benefits of project work
+- Identifies high-level deliverables, a prerequisite of a formal business case
 
 
 
