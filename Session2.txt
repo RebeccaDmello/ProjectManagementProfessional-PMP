@@ -130,6 +130,18 @@ Negotiate and Agree on Project Success Criteria
 
 DoD - Definition of done may be specified for the project, in addition to iterative outputs
 
+Development Approach
+- Agile ~ Releases becomes lifecycle of development approach. Agile Lifecycle which goes through daily meetings, demonstration, retro and looking at the backlog.
+- Predictive ~ 
+- Iterative ~
+- Hybrid ~
+- Incremental ~
+- Adaptive (IMP) ~ Initial vision -> product backlog -> user stories -> team works -> deliver to customer -> Definition of done met -> Deliver Product
+
+
+
+
+
 
 
 
