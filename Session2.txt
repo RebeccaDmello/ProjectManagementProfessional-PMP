@@ -42,6 +42,26 @@ Salience Model ~ Focus on the product owner role. Are they familiar, interested 
 - Legitimacy = approriate involvement or proximity, as applied to team stakeholders, indicating level of involvement with project work
 - Power = level of authority
 
+Stakeholder Perceptions and feedback are very crucial
+- Must be holistically understood in customer-centric project management approaches
+- Can be damaging to a project, whether they are negative or positive
+
+Stakeholder engagement plan identifies required management strategies to effectively engage stakeholders with focus to promote productive involvement of stakeholders in project or program decision-making and execution.
+
+Communication: Methods and Technologies
+- Meetings/verbal : Physical/virtual/phone
+- Digital/Electronic media : websites and social media, instant/text messaging via phone, Email
+- Physical : body lang/gestures, white boards
+- PUSH/PULL : sender determines an email/phone call , receiver determines: post info on team board
+
+Communication Challenges/Considerations
+- Take care of sensitivity and confidentiality of information
+- Communications OPAs e.g. social media protocols
+- Data protection laws/regulations
+
+
+
+
 
 
 
