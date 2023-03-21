@@ -59,7 +59,22 @@ Communication Challenges/Considerations : Model ~ Encode and Decode your ideas i
 - Communications OPAs e.g. social media protocols
 - Data protection laws/regulations
 
-Stakeholder Engagement strategy
+Stakeholder Engagement Assessment Matrix (SEAM) ~ It's like a column/table
+C- Current engagement level, D - Desired engagement level
+- Unaware, Resistant, Neutral, Supportive, Leading
+
+Creating a Collaborative Team Culture
+- Tailor a resource management plan 
+
+Team development lifecycle ~ Tuckman's ladder of team development
+Bruce tuckmen - Forming, Storming, Norming, Performing
+Forming - Excited to start something new
+Storming - Weight of task it can handle
+Norming - Group settles into one
+Performing - everyone performs some tasks
+Adjourning - We worked well together
+
+
 
 
 
