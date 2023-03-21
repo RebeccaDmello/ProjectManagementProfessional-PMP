@@ -54,12 +54,12 @@ Communication: Methods and Technologies
 - Physical : body lang/gestures, white boards
 - PUSH/PULL : sender determines an email/phone call , receiver determines: post info on team board
 
-Communication Challenges/Considerations
+Communication Challenges/Considerations : Model ~ Encode and Decode your ideas in an accurate manner
 - Take care of sensitivity and confidentiality of information
 - Communications OPAs e.g. social media protocols
 - Data protection laws/regulations
 
-
+Stakeholder Engagement strategy
 
 
 
