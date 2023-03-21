@@ -30,6 +30,18 @@ Power/Influence
 - Influence = ability to influence project outcomes or cuase changes to planning or execution
 - Magnitude of potential contribution or disruption to project
 
+Trailor stakeholder assessments to suit project needs. The goal of this exercise is to facilitate your planning of effective communication with the stakeholders!
+
+Stakeholder Mapping
+- Power and Interest grid
+- Power and Influence grid
+- Impact and Influence grid
+
+Salience Model ~ Focus on the product owner role. Are they familiar, interested and engaged enough with the project to make decisions and move the project forward?
+- Urgency = level of required attention/detail, Time constraints, High stakes
+- Legitimacy = approriate involvement or proximity, as applied to team stakeholders, indicating level of involvement with project work
+- Power = level of authority
+
 
 
 
