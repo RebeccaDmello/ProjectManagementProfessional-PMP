@@ -21,6 +21,18 @@ What's relationship to the project
 - Interest, Involvement, Interdependencies, Influence, Potential impact on project success
 
 Assess Stakeholders
+- Data gathering/Analysis/Representation. The gathered information and document it in stakeholder register.
+- Info can be name, title, internal/external, project role, major requirements, expectations, influence/attitude
+
+Power/Influence
+- Power = level of authority
+- Interest = level of concern about project outcomes
+- Influence = ability to influence project outcomes or cuase changes to planning or execution
+- Magnitude of potential contribution or disruption to project
+
+
+
+
 
 
 
