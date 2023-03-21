@@ -138,6 +138,33 @@ Development Approach
 - Incremental ~
 - Adaptive (IMP) ~ Initial vision -> product backlog -> user stories -> team works -> deliver to customer -> Definition of done met -> Deliver Product
 
+Assess Complexity : 
+Tool 1: The Stacey Complexity Model
+- CHAOS - fundamentally risky
+- COMPLEX - Adaptive approaches work well here
+- COMPLICATED - Linear approaches work well here
+- SIMPLE = 
+
+Tool 2: Suitability Filter
+A Diagnostic Visual Based on Survey Data
+- Agile - Hybrid - Predictive
+
+Iterative and Incremental: Predictive, Hybrid, Adaptive
+Increasingly Iterative and Incremental
+
+Iterative way of working
+- Minimum business increments - Release Roadmap + product backlog -> Iteration Planning -> Iteration backlog + coordination meeting -> Retro + demo
+=> Iteration Review
+- Artifacts + Ceremonies
+- Iterate ~ To repeat
+- User Stories - type of user and their requirements
+- Burndown Chart
+
+SCRUM - Agile framework that offers suggestions for how work can be organized to maximize value to the end user.
+Scrum is implemented at a product development team level
+
+
+
 
 
 
