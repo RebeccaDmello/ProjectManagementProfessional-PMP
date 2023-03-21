@@ -120,6 +120,16 @@ Business cases and documents
 - A documented economic feasibility study, established benefits of project work
 - Identifies high-level deliverables, a prerequisite of a formal business case
 
+Negotiate and Agree on Project Success Criteria
+- Interview stakeholders
+- Gather expert judgement
+- KPI (Key performance Indicators) = cost avoidance
+- Lessons learned and historical data
+- Quality policy
+- User acceptance testing (UAT) requirements
+
+DoD - Definition of done may be specified for the project, in addition to iterative outputs
+
 
 
 
