@@ -36,4 +36,9 @@ Scope Planning
 - Team = Estimates effort required and creates the iteration baseline, selecting stories to meet the expected velocity for the iteration.
 Places user stories from product backlog into release backlog to support identified features and functions.
 
+Starting with requirements?
+- Yes ~ Predictive => project requirements are elicited and set at the beginning of the project.
+- Sort of ~ => User stories are a different way of thinking about the requirements process.
+- Maybe ~ Hybrid => projects may elicit and refine requirements or compose user stories.
+
 
