@@ -4,5 +4,14 @@ Topics:
 3. Resources
 4. Budget
 
-Scope - It can be fixed or flexible
+Scope - It can be fixed or flexible. A project scope is the completed revitalization of Oasestown with bespoke spaces for commercial
+and community tenants. The scope of the construction project is fixed. It's based on finalized blueprints and building 
+compliance requirements with little room for change.
+
+Adaptability and Resilience in planning
+- Rolling wave planning
+- A form of progressive elaboration applied to work packages, planning packages and release planning.
+- Used in adaptive or predictive approaches
+
+
 
