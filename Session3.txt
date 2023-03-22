@@ -13,6 +13,15 @@ Adaptability and Resilience in planning
 - A form of progressive elaboration applied to work packages, planning packages and release planning.
 - Used in adaptive or predictive approaches
 
-what is MVP or MBI?
-Planning for work incrementally
+what is MVP(Minimal viable product = New product, service or result) or MBI (Minimum Business Increment = Enhancement)?
+- Planning for work incrementally
+- Doing the right thing, the right way
+
+Product Roadmap
+- Envisions and plans the "big picture"
+- Displays product strategy and direction and the value to be delivered
+- Leads with the overarching product vision and uses progressive elaboration to refine vision
+- Uses themes/goals to provide structure and associations
+- Provide short-term and long-term visualization
+
 
