@@ -30,4 +30,10 @@ Milestones
 - Created by project managers, customers or both
 - A milestone list identifies all milestones and indicates which are mandatory and optional
 
+Scope Planning
+- Project Manager = Facilitates the collect requirements process, documents requirements in a scope statement, work breakdown structure, develops schedule, budget and resources
+- Product Owner = Creates and refines release backlog for iteration planning meeting, explains each prioritized user story in detail to the team
+- Team = Estimates effort required and creates the iteration baseline, selecting stories to meet the expected velocity for the iteration.
+Places user stories from product backlog into release backlog to support identified features and functions.
+
 
