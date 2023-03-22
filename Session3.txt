@@ -74,3 +74,7 @@ Collect Requirement Process
 - Decision-making techniques
 - Data Representation
 - Prototyping e.g. storyboarding
+
+Scope Planning: How to collect requirements
+- Interviews, Questionnaires/Survey, Observations, Focus Groups, Facilitated Workshops
+- Characteristics, Advantages, considerations(Potential drawbacks)
