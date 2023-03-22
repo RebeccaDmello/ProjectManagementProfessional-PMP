@@ -48,4 +48,11 @@ Guidelines for use:
 - Start at a high level before providing details
 - Must be unambiguous (measurable and testable), traceable, complete, consistent and acceptable to key stakeholders
 
+Document Requirements
+- A simple format - e.g. a document listing all requirements, categorized by stakeholder and priority
+- More elaborate - e.g. executive summary, detailed descriptions, attachments
+- Requirements traceability matrix ** It is a format for documenting requirements
+~ ID, Associate ID, Description, Business Needs, Opportunities/Goals/Objectives, Project Objectives, WBS Deliverables,
+Product Design, Product Development and Test Cases
+
 
