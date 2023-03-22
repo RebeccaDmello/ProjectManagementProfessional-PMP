@@ -24,4 +24,10 @@ Product Roadmap
 - Uses themes/goals to provide structure and associations
 - Provide short-term and long-term visualization
 
+Milestones
+- Markers for big events, reviews, due dates, payments or decision-making
+- Prompts for reporting requirements or sponsor/customer approval
+- Created by project managers, customers or both
+- A milestone list identifies all milestones and indicates which are mandatory and optional
+
 
