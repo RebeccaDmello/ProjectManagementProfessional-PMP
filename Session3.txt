@@ -41,4 +41,11 @@ Starting with requirements?
 - Sort of ~ => User stories are a different way of thinking about the requirements process.
 - Maybe ~ Hybrid => projects may elicit and refine requirements or compose user stories.
 
+Requirements - What are they and why do we need them?
+- A requirement is one single measureable statement of condition or capability.
+- It tells how a product, service or result satisfies a business need.
+Guidelines for use:
+- Start at a high level before providing details
+- Must be unambiguous (measurable and testable), traceable, complete, consistent and acceptable to key stakeholders
+
 
