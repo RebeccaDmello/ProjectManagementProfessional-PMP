@@ -66,3 +66,11 @@ Types of Requirements
 - Stakeholder = Stakeholder needs aka "Reporting requirements"
 - Transition/Readiness = Temporary capabilities needed to transition successfully to the desired future state
 
+Collect Requirement Process
+- Expert Judgement
+- Interpersonal/Team skills
+- Data Gathering
+- Data analysis
+- Decision-making techniques
+- Data Representation
+- Prototyping e.g. storyboarding
