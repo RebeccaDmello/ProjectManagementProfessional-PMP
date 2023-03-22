@@ -55,4 +55,14 @@ Document Requirements
 ~ ID, Associate ID, Description, Business Needs, Opportunities/Goals/Objectives, Project Objectives, WBS Deliverables,
 Product Design, Product Development and Test Cases
 
+Requirement Management Plan 
+- Plan, Track and Report on Requirements Activities
+- Configuration management activities: Version control rules, impact analysis
+Types of Requirements
+- Project = actions, processes and conditions the project must meet
+- Product = Features and characteristics of the product, service or result that will meet the business and stakeholder requirements. Functional and nonfunctional
+- Quality = Conditions or criteria needed to validate the successful completion of a project deliverable or fulfilment of other project requirements
+- Business = Higher-level org needs, reasons for the project
+- Stakeholder = Stakeholder needs aka "Reporting requirements"
+- Transition/Readiness = Temporary capabilities needed to transition successfully to the desired future state
 
