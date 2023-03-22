@@ -78,3 +78,8 @@ Collect Requirement Process
 Scope Planning: How to collect requirements
 - Interviews, Questionnaires/Survey, Observations, Focus Groups, Facilitated Workshops
 - Characteristics, Advantages, considerations(Potential drawbacks)
+
+Work Breakdown Structure (WBS)
+- Include every aspect - nothing extra, nothing missing
+- Include project and product components
+- Use hierarchical structure: highest - project, next - deliverables, lowest - work package
