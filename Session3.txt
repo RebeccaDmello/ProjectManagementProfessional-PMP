@@ -13,5 +13,6 @@ Adaptability and Resilience in planning
 - A form of progressive elaboration applied to work packages, planning packages and release planning.
 - Used in adaptive or predictive approaches
 
-
+what is MVP or MBI?
+Planning for work incrementally
 
