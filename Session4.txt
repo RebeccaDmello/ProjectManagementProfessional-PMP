@@ -40,3 +40,20 @@ Risk strategy, Methodology, Roles and responsibilities, Funding, Timing,, Risk C
 Stakeholder risk appetite, definition of risk probability and impact, probability and impact matrix
 Reporting formats, Tracking documents
 
+Inherent Risk
+- Agile projects includ risks in user stories and as part of backlog work items
+- Teams discuss risks at planning meetings, during the normal course of work
+- Teams place risks in a risk register, use information radiators to ensure visibility and a backlog refinement process that includes
+constant risk assessment
+
+Risk Identification Techniques
+- Risk breakdown structure (RBS)
+- Brainstorming
+- Nominal group technique
+- SWOT analysis
+- Affinity diagram
+- Assumption analysis
+- Document review
+- Delphi technique
+- Monte Carlo simulation
+
