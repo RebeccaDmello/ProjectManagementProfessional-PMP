@@ -128,3 +128,5 @@ Identify and correct gaps or discrepancies
 Align efforts and highlight how they depend on each other - so your team works better
 Help assess and coordinate the project during its life cycle
 ** The result of this step is an Integrated project management plan
+
+
