@@ -104,4 +104,7 @@ Risk Response
 - Agreed to by the relevant stakeholders
 - Owned by a responsible person
 
+Risk Response Strategies
+- Threat = Escalate, avoid, transfer, mitigate, accept
+- Opportunity = Escalate, exploit, share, enhance, accept
 
