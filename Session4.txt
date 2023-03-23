@@ -198,5 +198,8 @@ Manage project artifacts
 - Determine the requirments for managing the project artifacts
 - Validate that the project information is kept up to date and accessible to all stakeholders
 
+Support diversity, equity and inclusion
+- Empower teams as a cohesive unit but respect individuals
+- Create an environment that acknowledges diversity in a positive way and builds mutual trust.
 
 
