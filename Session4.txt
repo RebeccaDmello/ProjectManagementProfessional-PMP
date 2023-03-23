@@ -65,6 +65,9 @@ Assess Risks (Qualitative then Quantitative)
 Create Risk probability and Impact definitions
 - Scale, probability, Time, Cost, Quality
 
+Probability and Impact Matrix (Impact - Severity and Probability - Likelihood)
+- Use numeric values and/or colors
+- If using numbers, multiply them to give a probability impact score - this makes evaluating relative priority easier
 
 
 
