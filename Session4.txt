@@ -114,3 +114,11 @@ Include:
 - Stakeholder expectations and end-user satisfaction
 - Compliance with standards and regulations
 - Continuous improvement
+
+Quality standards and Regulations are crucial in an org to maintain the work flow
+- Standards = Documents established as a model by an authority, custom or by general consent. Example: Dictionary
+- Regulations = Requirements that can establish product, process or service characteristics
+- Metrics = Metrics measure desired quality attributes for your product or project through testing, use of tools, processes
+- six sigma(aka lean six sigma) = DMAIC framework (define, measure, analyze, improve, control) = focus on relevant topics
+
+
