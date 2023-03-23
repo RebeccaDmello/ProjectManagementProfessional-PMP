@@ -108,3 +108,9 @@ Risk Response Strategies
 - Threat = Escalate, avoid, transfer, mitigate, accept
 - Opportunity = Escalate, exploit, share, enhance, accept
 
+Quality
+The degree to which a set of inherent characteristics fulfill requirements.
+Include:
+- Stakeholder expectations and end-user satisfaction
+- Compliance with standards and regulations
+- Continuous improvement
