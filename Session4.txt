@@ -210,4 +210,35 @@ Motivational Theories/Approaches
 Maslow's Hierarchy of Needs
 - Self-actualization, Esteem, Belonging, Safety, Physiological
 
+Herzberg's Motivation-Hygiene Theory aka 2-factor theory
+- Hygiene Factors => salary, work environment
+- Motivators => Advancement, Recognition, engagement
+
+McClelland's Achievement Motivation Theory
+An individual's needs are shaped by life experiences in three areas; one becomes dominant:
+- Use this info to influence goal setting, feedback and motivation/reward systems
+- Design or craft roles around team member strengths
+- Identify need for balance to create T-shaped people and high-performing project teams
+
+Uphold Team Charter and Ground Rules
+
+Use Rewards and Recognition
+- Rewards: Tangible, consumable items. for a specific outcome or achievement, Use to motivate toward a specific outcome. 
+Never reward without recognition
+- Recognition: Intangible, experiental event. Acknowledge person's behavior rather than an outcome. Use to increase recipient's feeling of appreciation.
+Can be given without a reward
+** Be transparent and judicious when using rewards and recognition. 
+
+Decision-Making: Empower the team to act
+- Team charter identifies decision-making and conflict resolution criteria
+- Team establish their own norms or way of working for making decision and conflict resolution
+- Group decision technique in which the group agrees to support an outcome even if the individuals do not agree with the decision
+Activities
+- Clarify and prioritize requirements or user stories
+- Split requirements into tasks
+- Estimate effort
+Risks
+- Classification
+- Response/action
+
 
