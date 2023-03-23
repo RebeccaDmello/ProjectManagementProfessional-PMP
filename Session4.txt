@@ -60,7 +60,8 @@ Risk Identification Techniques
 Assess Risks (Qualitative then Quantitative)
 - Performs the subjective qualitative assessment first
 - Prioritize risks for further analysis by assessing and combining their probability of occurrence and impact in a probability/impact matrix
-- Not every risk needs quantitative assessment
+- **Not every risk needs quantitative assessment
+
 
 
 
