@@ -135,3 +135,36 @@ Tuckman Stages of Team Development
 - Norming = team begins to work productively without worrying about personal acceptance or control issues
 - Performing = Team is working at optimum productivity and is colloborating easily, communicating freely and solving its own conflicts
 - Adjourning = Team members complete their assigned work and shift to the next oriject or assigned task
+
+Virtual Team Member Enaggement
+- Manage engagement by focusing on:
+~ Team dynamics, transparency, accountability, attention to effective communication
+
+Virtual Team Best practices
+- Manage risk of "feeling isolated"
+- Focus on shared commitments and team goals vs. individual accomplishments
+- Instill a sense of shared commitment
+
+Where and how the team works
+- Colocation, if possible
+- Factor in environment and location to team performance
+- Foster meaningful interaction to support autonomy
+- Respect agreed team working hours and practices
+
+"Agile" space for Hybrid teams
+- Ensure private spaces for those who need to work in solitude
+
+Work Information Management Systems
+- Project Management Information System (PMIS)
+Gather, integrate and share project data
+Ensure consistency in collection and reporting
+
+Artifacts Management Systems
+- Store and maintain project artifacts
+- Microsoft SharePoint or Teams, Google Drive
+
+Importance of Artifacts
+- Artifacts enable reconstruction of the history of the project and to benefit other projects
+- Project teams create and maintain many artifacts during the life of the project
+
+
