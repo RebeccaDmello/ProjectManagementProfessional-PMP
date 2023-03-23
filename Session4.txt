@@ -62,6 +62,9 @@ Assess Risks (Qualitative then Quantitative)
 - Prioritize risks for further analysis by assessing and combining their probability of occurrence and impact in a probability/impact matrix
 - **Not every risk needs quantitative assessment
 
+Create Risk probability and Impact definitions
+- Scale, probability, Time, Cost, Quality
+
 
 
 
