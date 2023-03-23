@@ -167,4 +167,36 @@ Importance of Artifacts
 - Artifacts enable reconstruction of the history of the project and to benefit other projects
 - Project teams create and maintain many artifacts during the life of the project
 
+Information storage and distribution good practices
+- Select an accessible location
+- Use information radiators to make work visible
+- The storage and distribution system should match
+
+Standardize Artifacts
+- A simple way to produce and control documents
+- Standardized formats and templates
+- A structured process for the review and approval of documents
+- Version control and security
+- Timely distribution of documents
+
+Tailor Artifacts
+These lists are typical not exclusive or prescriptive. 
+
+Configuration management okab
+- Project management plan component
+- States how project info will be recorded and updated
+- Facilitates consistency of the product, service or result of the project and/or operability
+
+Version Control
+This is a subset of configuration management related to documents and digital record keeping.
+For each update, include:
+- A new version number
+- A date/time stamp
+- Name of user who made the changes
+
+Manage project artifacts
+- Determine the requirments for managing the project artifacts
+- Validate that the project information is kept up to date and accessible to all stakeholders
+
+
 
