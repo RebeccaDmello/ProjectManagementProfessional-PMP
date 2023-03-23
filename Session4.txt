@@ -96,3 +96,12 @@ Quantitative risk analysis methods
 
 Risks ~ Time, Cost and Life Cycle
 => Predictive projects are most ofthen affected by the impact of cost-related risks, whereas adaptive projects are affected by the impact of time-related risks
+
+Risk Response
+- appropriate for the significance of the risk 
+- Cost effective
+- Realistic within the project context
+- Agreed to by the relevant stakeholders
+- Owned by a responsible person
+
+
