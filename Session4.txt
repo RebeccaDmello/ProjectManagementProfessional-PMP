@@ -121,4 +121,10 @@ Quality standards and Regulations are crucial in an org to maintain the work flo
 - Metrics = Metrics measure desired quality attributes for your product or project through testing, use of tools, processes
 - six sigma(aka lean six sigma) = DMAIC framework (define, measure, analyze, improve, control) = focus on relevant topics
 
-
+Integrating Plans
+- The scope, schedule, budget, resources, quality and risk plans must support desired outcomes
+- An integrated view of all plans can:
+Identify and correct gaps or discrepancies
+Align efforts and highlight how they depend on each other - so your team works better
+Help assess and coordinate the project during its life cycle
+** The result of this step is an Integrated project management plan
