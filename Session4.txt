@@ -94,3 +94,5 @@ Quantitative risk analysis methods
 - Influence diagrams
 - Expected monetary value (EMV)
 
+Risks ~ Time, Cost and Life Cycle
+=> Predictive projects are most ofthen affected by the impact of cost-related risks, whereas adaptive projects are affected by the impact of time-related risks
