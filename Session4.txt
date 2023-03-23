@@ -129,4 +129,9 @@ Align efforts and highlight how they depend on each other - so your team works b
 Help assess and coordinate the project during its life cycle
 ** The result of this step is an Integrated project management plan
 
-
+Tuckman Stages of Team Development
+- Forming = team members meet and begin to trust one another
+- Storming = team members begin to assert themselves and take control of emerging issues
+- Norming = team begins to work productively without worrying about personal acceptance or control issues
+- Performing = Team is working at optimum productivity and is colloborating easily, communicating freely and solving its own conflicts
+- Adjourning = Team members complete their assigned work and shift to the next oriject or assigned task
