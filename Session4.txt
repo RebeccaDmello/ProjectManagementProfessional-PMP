@@ -17,3 +17,26 @@ Risk - Condition of uncertainty
 ~ Risks can be positive or negative
 ~ If a risk becomes an issue, you must act!
 
+Project Risks - SLC examples
+~ Working with new vendors and building processes
+~ Supply chain issues for correct bricks
+~ Building code compliance
+~ Key stakeholder conflict
+
+Business Context 
+~ Business risks represent an opportunity for gain or loss
+~ Project risk management systematically maximized the probability of positive events and minimizes the probability and consequences of negative events
+~ As project uncertainty increases, the risk of rework increases
+
+Create Risk Strategy
+~ First understand risk parameters for the org and the project!
+~ Risk threshold is tied to individual and organizational risk appetities
+
+Define risk management approach
+Factor in project characteristics: Size, complexity, Importance, Development Approach
+
+In the Plan:
+Risk strategy, Methodology, Roles and responsibilities, Funding, Timing,, Risk Categories
+Stakeholder risk appetite, definition of risk probability and impact, probability and impact matrix
+Reporting formats, Tracking documents
+
