@@ -27,3 +27,8 @@ Conduct Retrospectives (went well and Need to improve)
 - Get team consensus on the plan improvement
 - Update these tasks on the backlog after a discussion with the product owner
 
+Lead with an improvement Mindset
+- Educate yourself
+- Encourage a "fail fast" mindset
+- Identify material improvements, training, processes or equipment
+- Measure the effect of any change
