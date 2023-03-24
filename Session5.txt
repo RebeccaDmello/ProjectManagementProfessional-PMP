@@ -7,3 +7,23 @@ Topics
 - Project Phase/Closure
 - Benefit Realization
 - Knowledge Transfer
+
+Kaizen 
+- Identify potential improvement
+- Implement the change
+
+Assess Current CI methods
+How well are the team and organization equipped for CI?
+= Use the risk register to assess current CI measures. It includes how the team is prepared to act address the threat to project quality,
+so it can be helpful way of assessing current CI changes
+
+Conduct Retrospectives (went well and Need to improve)
+- Review and Improve methods
+- On a board, make two columns: "what went well" and "what could be improved"
+- Ask attendees to add items to these lists
+- Allow each participant to identify the reason for the improvement
+- Decide common items that need improvement and mark them
+- Narrow the list to those improvement areas that will bring value in the next sprint
+- Get team consensus on the plan improvement
+- Update these tasks on the backlog after a discussion with the product owner
+
