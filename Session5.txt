@@ -37,3 +37,8 @@ EVM Measures for cost control
 - Is the project on budget?
 - How efficient is my project?
 
+Evaluate and Manage Quality
+- Project manager uses Control Quality process to: verifym identify, verify alignment, give feedback, identify potential approaches
+- Team, customer and product owner are responsible for setting and meeting quality goals and metrics
+- Feedback from iterations continuously monitor quality
+- Measure performance of quality with: SLAs, KPIs, Contractual measure, Quality methods/frameworks eg. Lean Six Sigma
