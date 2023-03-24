@@ -32,3 +32,8 @@ Lead with an improvement Mindset
 - Encourage a "fail fast" mindset
 - Identify material improvements, training, processes or equipment
 - Measure the effect of any change
+
+EVM Measures for cost control
+- Is the project on budget?
+- How efficient is my project?
+
